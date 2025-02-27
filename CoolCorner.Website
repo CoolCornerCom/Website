@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "..\\CoolCorner.sln",
+    "projects": [
+      "CDN\\CoolCorner.CDN.csproj",
+      "Website\\CoolCorner.Website.csproj"
+    ]
+  }
+}
